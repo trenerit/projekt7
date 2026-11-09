@@ -1,0 +1,46 @@
+* {
+    font-family: 'Segoe UI', Tahoma;
+}
+
+.s1 {
+    width: 40%;
+}
+
+.s2 {
+    width: 60%;
+    text-align: right;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    color: #0077A2;
+    text-decoration: none;
+}
+
+li a {
+    padding: 1em;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 20em;
+    margin: 1em;
+}
+
+div {
+    text-align: center;
+}
+
+img:hover {
+    border: 3px dashed #E30613;
+}
